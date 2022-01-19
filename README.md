@@ -1,11 +1,9 @@
 ### Olá, me chamo Patrick Cordeiro!
 ### Sou Desenvolvedor Web!
 ## Bem vindo ao meu perfil GitHub 👋
-
 - 🔭 Procurando emprego na área de desenvolvimento
 - 📚 Estudando JavaScript
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
-
 <div align="center">
   <a href="https://github.com/patrickcordeiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrickcordeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
