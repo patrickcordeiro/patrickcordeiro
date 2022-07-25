@@ -2,7 +2,7 @@
 ### Sou Desenvolvedor Web!
 ## Bem vindo ao meu perfil GitHub 👋
 - 🔭 Procurando emprego na área de desenvolvimento
-- 📚 Estudando JavaScript
+- 📚 Estudando React!
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
 <div align="center">
   <a href="https://github.com/patrickcordeiro">
