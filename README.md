@@ -1,5 +1,5 @@
 ### Olá, me chamo Patrick Cordeiro!
-### Sou Desenvolvedor Web!
+### Sou Desenvolvedor Front End!
 ## Bem vindo ao meu perfil GitHub 👋
 - 🔭 Procurando emprego na área de desenvolvimento
 - 📚 Estudando React!
