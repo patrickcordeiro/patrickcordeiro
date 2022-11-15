@@ -2,7 +2,7 @@
 ### Sou Desenvolvedor Front End!
 ## Bem vindo ao meu perfil GitHub 👋
 - 🔭 Procurando emprego na área de desenvolvimento
-- 📚 Estudando React!
+- 📚 Estudando Python!
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
 <div align="center">
   <a href="https://github.com/patrickcordeiro">
