@@ -3,7 +3,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 - 🔭 Procurando emprego na área de desenvolvimento
 - 📚 Estudando Python!
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas
 <div align="center">
   <a href="https://github.com/patrickcordeiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrickcordeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
