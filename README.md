@@ -31,7 +31,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.s
 <a href = "patrick.cordeiro30@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/patrick-cordeiro-a08a55141/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/patrickpalhano_dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://patrickcordeiro-dev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-MyPortifolio-blue" target="_blank"></a>
+<a href="https://patrickcordeiro-dev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portifolio-blue?style=for-the-badge" target="_blank"></a>
   
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=patrickcordeiro.patrickcordeiro)
   
