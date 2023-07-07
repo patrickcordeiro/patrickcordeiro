@@ -1,8 +1,8 @@
 ### Olá, me chamo Patrick Cordeiro!
-### Sou Desenvolvedor Front End!
+### Sou Desenvolvedor Full Stack!
 ## Bem vindo ao meu perfil GitHub 👋
-- 🔭 Procurando emprego na área de desenvolvimento
-- 📚 Estudando Python!
+- 🔭 DDesenvolvedor Full Stack na empresa Biopark
+- 📚 Estudando NextJs!
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas
 <div align="center">
   <a href="https://github.com/patrickcordeiro">
