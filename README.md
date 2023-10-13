@@ -1,8 +1,8 @@
 ### Olá, me chamo Patrick Cordeiro!
 ### Sou Desenvolvedor Full Stack!
 ## Bem vindo ao meu perfil GitHub 👋
-- 🔭 Desenvolvedor Full Stack na empresa Biopark
-- 📚 Estudando NextJs e Testes Automatizados!
+- 🔭 Desenvolvedor Full Stack na empresa 4pshop
+- 📚 Estudando NestJs e Testes Automatizados!
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas
 <div align="center">
   <a href="https://github.com/patrickcordeiro">
