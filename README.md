@@ -44,6 +44,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.s
   
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=patrickcordeiro.patrickcordeiro)
   
-  ![Snake animation](https://github.com/patrickcordeiro/patrickcordeiro/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
