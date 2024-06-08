@@ -4,10 +4,10 @@
 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Desenvolvedor Fullstack na empresa 4pshop
-- 📚 Estudando NestJS e Testes Automatizados!
+- 🔭 Desenvolvedor Fullstack na empresa 4PSHOP Tecnologia em E-commerce
+- 📚 Estudando sobre AWS!
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas
-- 
+  
 <div align="center">
   <a href="https://github.com/patrickcordeiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrickcordeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
