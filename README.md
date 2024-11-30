@@ -5,7 +5,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Desenvolvedor Fullstack na empresa 4PSHOP Tecnologia em E-commerce
-- 📚 Estudando sobre AWS!
+- 📚 Estudando sobre Angular e Kubernetes!
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas
   
 <div align="center">
