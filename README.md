@@ -1,8 +1,6 @@
-### Olá, me chamo Patrick Cordeiro!
+### Olá, me chamo Patrick Cordeiro, sou Desenvolvedor Full Stack!
 
-### Sou Desenvolvedor Full Stack!
-
-## Bem vindo ao meu perfil GitHub 👋
+## Bem vindo ao meu perfil! 👋
 
 - 🔭 Desenvolvedor Fullstack na empresa 4PSHOP Tecnologia em E-commerce
 - 📚 Estudando sobre Angular e Kubernetes!
