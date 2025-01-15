@@ -2,7 +2,7 @@
 
 ## Bem vindo ao meu perfil! 👋
 
-- 🔭 Desenvolvedor Fullstack na empresa 4PSHOP Tecnologia em E-commerce
+- 🔭 Desenvolvedor Fullstack na empresa TBDC Agro Software
 - 📚 Estudando sobre Angular e Kubernetes!
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas
   
