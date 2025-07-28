@@ -2,7 +2,7 @@
 
 ## Bem vindo ao meu perfil! 👋
 
-- 🔭 Desenvolvedor Fullstack na empresa TBDC Agro Software
+- 🔭 Desenvolvedor Fullstack
 - 📚 Estudando sobre Vue.js e Kubernetes!
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas
   
